@@ -1,0 +1,16 @@
+@media (max-width: 620px){
+   .mobile{
+    display: block;
+    } 
+    a.active{
+        background: gray;
+        color: white;
+    }
+}
+
+
+@media (min-width: 712px){
+   .mobile{
+    display: none;
+    } 
+}

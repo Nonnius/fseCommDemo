@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/((?!assets/|api/|_next/|static/|favicon.ico).*)",
+      "destination": "/"
+    }
+  ]
+}
